@@ -13,3 +13,18 @@ while i<=10:
 		break
 	print(i)
 	i+=1
+'''______________OUTPUT_____________
+using for loop
+1
+2
+3
+4
+5
+using while loop
+1
+2
+3
+4
+5
+
+[Program finished]'''

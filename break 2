@@ -1,0 +1,30 @@
+# write a python program to print your name 5 times on screen by breaking a loop that is supposed to print your name 10 times
+
+print("using for loop")
+for i in range(1,10+1):
+	if i==6:
+		break
+	print("Kamakshi Rishitha")
+
+print("using while loop")
+i=1
+while i<=10:
+	if i==6:
+		break
+	print("Kamakshi Rishitha")
+	i+=1
+ '''________________OUTPUT____________
+ using for loop
+Kamakshi Rishitha
+Kamakshi Rishitha
+Kamakshi Rishitha
+Kamakshi Rishitha
+Kamakshi Rishitha
+using while loop
+Kamakshi Rishitha
+Kamakshi Rishitha
+Kamakshi Rishitha
+Kamakshi Rishitha
+Kamakshi Rishitha
+
+[Program finished]'''
